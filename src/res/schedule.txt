@@ -1,0 +1,11 @@
+04:04
+05:27
+11:44
+15:10
+18:01
+18:01
+19:15
+21:49
+23:44
+01:38
+['Egypt', 'Egyptian General Authority of Survey', "Fajr: 19.5° - Isha'a: 17.5°"]
